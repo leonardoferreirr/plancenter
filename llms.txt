@@ -1,0 +1,30 @@
+# Plancenter Consultoria & Projetos
+
+> Onde suas ideias se transformam em projetos bem-sucedidos. A Plancenter oferece soluções em planejamento, projetos, gestão, consultoria, branding, mentoria e capacitação, para empresas, projetos e igrejas e ministérios.
+
+## Soluções
+- Planejamento estratégico
+- Business plan
+- Projetos
+- Identidade visual
+- Assessoria administrativa
+- Consultoria empresarial
+- Mentoria estratégica
+- Capacitação e treinamentos
+- Consultoria e assessoria para igrejas e ministérios: estatuto social, regimento interno, atas, plano de trabalho e plano estratégico.
+
+## Método Plancenter
+1. Diagnosticar: Entendemos sua realidade, desafios e objetivos.
+2. Planejar: Definimos estratégias personalizadas para o seu propósito.
+3. Estruturar: Organizamos processos, projetos e recursos.
+4. Implementar: Apoiamos a execução com método e orientação.
+5. Acompanhar: Monitoramos resultados e caminhamos com você até a conquista.
+
+## Missão, visão e valores
+- Missão: Transformar ideias em projetos estruturados e sustentáveis.
+- Visão: Ser referência em planejamento, consultoria e desenvolvimento estratégico.
+- Valores: Excelência, ética, estratégia, inovação, compromisso e resultados.
+
+## Contato
+WhatsApp: +55 61 99397-3723
+Site: https://plancenter.vercel.app/

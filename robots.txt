@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://plancenter.vercel.app/sitemap.xml
