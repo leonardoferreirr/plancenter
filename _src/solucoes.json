@@ -1,0 +1,175 @@
+[
+  {
+    "slug": "planejamento",
+    "area": "Planejamento",
+    "servico": "Planejamento estratégico e operacional",
+    "descricao": "Organizamos com você onde a empresa ou instituição está hoje, aonde quer chegar e o que precisa ser feito para isso, com objetivos, metas e prioridades definidos por escrito. O planejamento estratégico define a direção, e o operacional traduz essa direção em tarefas, responsáveis e prazos para o dia a dia.",
+    "problema": "A equipe trabalha muito, mas cada um puxa para um lado, e as decisões são tomadas no improviso porque não existe um plano que diga o que vem primeiro.",
+    "para_quem": [
+      "Empresas que cresceram sem planejamento formal",
+      "Gestores que precisam alinhar a equipe em torno de metas",
+      "Instituições que vão começar um novo ciclo ou mandato",
+      "Negócios que vão expandir ou lançar um novo serviço"
+    ],
+    "entregas": [
+      "Diagnóstico da situação atual",
+      "Análise de forças, fraquezas, oportunidades e ameaças",
+      "Revisão de missão, visão e valores, quando necessário",
+      "Matriz de objetivos e metas",
+      "Plano de ação com responsáveis e cronograma",
+      "Indicadores para acompanhar a execução"
+    ],
+    "orcamento": "Peça seu orçamento pelo formulário ou pelo WhatsApp, e começamos com uma conversa inicial para entender o momento da empresa e definir o escopo do planejamento."
+  },
+  {
+    "slug": "negocios",
+    "area": "Negócios",
+    "servico": "Plano de negócios e estruturação empresarial",
+    "descricao": "Colocamos a ideia ou o negócio no papel de forma completa, com mercado, público, concorrência, operação, investimento necessário e projeção financeira. Também apoiamos a estruturação da empresa, organizando o modelo de funcionamento, as áreas e os processos principais para começar ou crescer com mais clareza.",
+    "problema": "Quem tem uma ideia ou um negócio em fase inicial muitas vezes não sabe quanto precisa investir, quanto precisa vender para cobrir os custos e se o mercado comporta a proposta, e acaba decidindo no escuro.",
+    "para_quem": [
+      "Quem quer tirar uma ideia do papel",
+      "Empreendedores que vão abrir ou formalizar um negócio",
+      "Empresas que planejam expandir ou lançar um produto",
+      "Quem vai apresentar o negócio a sócios, investidores ou bancos"
+    ],
+    "entregas": [
+      "Estudo de mercado, público e concorrência",
+      "Definição do modelo de negócio: o que vender, para quem e como",
+      "Plano de marketing e de vendas",
+      "Plano operacional com estrutura, processos e equipe",
+      "Estimativa de investimento inicial e projeção financeira",
+      "Plano de negócios final, organizado para apresentação"
+    ],
+    "orcamento": "Para pedir orçamento, use o formulário ou chame no WhatsApp: na conversa inicial entendemos em que fase está a ideia e o que o plano precisa contemplar."
+  },
+  {
+    "slug": "projetos",
+    "area": "Projetos",
+    "servico": "Projetos técnicos, institucionais e planos de trabalho",
+    "descricao": "Elaboramos projetos técnicos e institucionais e planos de trabalho para editais, convênios e parcerias, com justificativa, objetivos, metodologia, cronograma e orçamento organizados conforme o modelo exigido. A decisão de aprovar cabe sempre a quem avalia, e o nosso compromisso é entregar um documento completo, claro e coerente com as regras.",
+    "problema": "A iniciativa existe e faz sentido, mas falta colocá-la em um documento organizado e dentro das exigências de quem vai avaliar, quase sempre com prazo curto.",
+    "para_quem": [
+      "Associações, fundações e organizações sociais",
+      "Projetos sociais, culturais e comunitários",
+      "Empresas que precisam apresentar propostas técnicas",
+      "Igrejas e ministérios com ações sociais"
+    ],
+    "entregas": [
+      "Leitura e análise do edital ou das exigências do parceiro",
+      "Estrutura do projeto: justificativa, objetivos, público e metodologia",
+      "Plano de trabalho com metas, etapas e cronograma",
+      "Orçamento detalhado por atividade",
+      "Revisão de coerência e conferência das exigências antes do envio"
+    ],
+    "orcamento": "Envie pelo formulário ou pelo WhatsApp o tipo de projeto e, se houver, o edital e o prazo, e na conversa inicial definimos juntos o escopo e o orçamento."
+  },
+  {
+    "slug": "branding",
+    "area": "Branding",
+    "servico": "Identidade visual, logomarcas e posicionamento",
+    "descricao": "Desenvolvemos a identidade da marca a partir do que a empresa é e de como ela quer ser percebida, definindo posicionamento, logomarca, cores, tipografia e o jeito de se comunicar. Tudo fica organizado em um manual, para que a marca seja aplicada do mesmo jeito em todos os lugares onde aparece.",
+    "problema": "A marca foi feita às pressas ou cresceu sem padrão, e cada material sai com uma cor, uma fonte e um tom diferente, o que faz o cliente perceber a empresa como menos profissional do que ela é.",
+    "para_quem": [
+      "Negócios que estão nascendo e precisam de marca",
+      "Empresas com logomarca antiga ou sem padrão visual",
+      "Profissionais que querem apresentar melhor o próprio trabalho",
+      "Instituições e ministérios que vão renovar a imagem"
+    ],
+    "entregas": [
+      "Diagnóstico da marca atual e das referências do setor",
+      "Definição de posicionamento e tom de comunicação",
+      "Criação da logomarca e de suas versões",
+      "Paleta de cores e tipografia",
+      "Manual de identidade visual",
+      "Modelos de aplicação, como cartão de visita, papelaria e redes sociais"
+    ],
+    "orcamento": "Pelo formulário ou pelo WhatsApp, conte em que momento a marca está, e na conversa inicial entendemos se o caso é criar do zero ou reorganizar o que já existe para montar o orçamento."
+  },
+  {
+    "slug": "gestao",
+    "area": "Gestão",
+    "servico": "Assessoria administrativa e organização institucional",
+    "descricao": "Apoiamos a organização administrativa e documental de empresas e instituições, para que rotinas, registros e responsabilidades deixem de depender da memória de uma pessoa só. O trabalho inclui entender como as coisas funcionam hoje, organizar documentos e processos e definir uma rotina simples para manter tudo em ordem.",
+    "problema": "Documentos espalhados, atas atrasadas, processos que ninguém sabe explicar e tudo concentrado em uma ou duas pessoas, de modo que qualquer ausência ou troca de gestão trava a instituição.",
+    "para_quem": [
+      "Associações, fundações e organizações sociais",
+      "Pequenas e médias empresas sem rotina administrativa definida",
+      "Igrejas e ministérios",
+      "Instituições em troca de diretoria ou de gestão"
+    ],
+    "entregas": [
+      "Levantamento da situação administrativa e documental",
+      "Organização e arquivo dos documentos institucionais",
+      "Mapeamento dos principais processos e rotinas",
+      "Organograma com funções e responsabilidades",
+      "Modelos de documentos, como atas, ofícios e relatórios",
+      "Calendário de rotinas, reuniões e prazos internos"
+    ],
+    "orcamento": "Solicite seu orçamento pelo formulário ou pelo WhatsApp, e começamos por uma conversa para entender o tamanho da instituição e o que precisa ser organizado primeiro."
+  },
+  {
+    "slug": "consultoria",
+    "area": "Consultoria",
+    "servico": "Consultoria empresarial e estratégica",
+    "descricao": "Acompanhamos empresários e gestores na análise do negócio e nas decisões importantes, olhando para gestão, processos, equipe, posicionamento e crescimento. O trabalho é próximo, com encontros e orientações construídos a partir da realidade da empresa, sem soluções prontas.",
+    "problema": "O dono do negócio decide tudo sozinho, passa o dia resolvendo urgências e sente que a empresa poderia funcionar melhor, mas não sabe por onde começar a mudar.",
+    "para_quem": [
+      "Empresários que concentram todas as decisões",
+      "Empresas em fase de crescimento ou reorganização",
+      "Negócios familiares",
+      "Gestores diante de uma decisão importante"
+    ],
+    "entregas": [
+      "Diagnóstico empresarial",
+      "Encontros de consultoria com frequência combinada",
+      "Relatório com pontos de atenção e recomendações",
+      "Plano de ação com prioridades",
+      "Acompanhamento da implementação, quando previsto no escopo"
+    ],
+    "orcamento": "Para orçar, fale com a Plancenter pelo formulário ou pelo WhatsApp: a conversa inicial serve para entender o desafio e definir se o melhor formato é uma consultoria pontual ou com acompanhamento."
+  },
+  {
+    "slug": "desenvolvimento",
+    "area": "Desenvolvimento",
+    "servico": "Mentoria, capacitação e treinamentos",
+    "descricao": "Desenvolvemos pessoas e equipes em liderança, gestão e planejamento, com mentorias individuais, capacitações e treinamentos montados para cada grupo. O conteúdo parte da realidade de quem participa, com exemplos e exercícios ligados ao trabalho do dia a dia.",
+    "problema": "A pessoa assumiu uma liderança ou abriu o próprio negócio sem preparo em gestão, ou a equipe domina a parte técnica do trabalho mas tem dificuldade para planejar, organizar e conduzir.",
+    "para_quem": [
+      "Empreendedores e profissionais autônomos",
+      "Novos líderes e gestores",
+      "Equipes de empresas e instituições",
+      "Lideranças de igrejas e ministérios"
+    ],
+    "entregas": [
+      "Diagnóstico das necessidades de desenvolvimento",
+      "Mentoria individual com encontros programados",
+      "Treinamentos e capacitações sob medida para equipes",
+      "Material de apoio para os participantes",
+      "Plano de desenvolvimento individual ou da equipe"
+    ],
+    "orcamento": "Pelo formulário ou pelo WhatsApp, conte quem vai participar e qual é o objetivo, e com essa conversa inicial definimos o formato, a carga horária e o orçamento."
+  },
+  {
+    "slug": "setor-religioso",
+    "area": "Setor religioso",
+    "servico": "Consultoria administrativa e planejamento para igrejas e ministérios",
+    "descricao": "Apoiamos igrejas e ministérios na organização administrativa, documental e estratégica, respeitando a identidade, a realidade e a forma de governo de cada comunidade. O trabalho vai da documentação institucional, como estatuto social e regimento interno, ao planejamento das ações e ao preparo das lideranças.",
+    "problema": "O ministério cresceu e a parte administrativa ficou para trás, com estatuto desatualizado, atas que não registram as decisões, funções pouco claras e projetos que dependem do esforço de poucas pessoas.",
+    "para_quem": [
+      "Igrejas em fase de abertura ou formalização",
+      "Igrejas que precisam atualizar estatuto e documentos",
+      "Ministérios e projetos ligados à igreja",
+      "Pastores, lideranças e conselhos administrativos"
+    ],
+    "entregas": [
+      "Elaboração ou revisão do estatuto social",
+      "Regimento interno",
+      "Modelos e organização de atas",
+      "Plano estratégico da igreja ou do ministério",
+      "Plano de trabalho para projetos e ações sociais",
+      "Capacitação de lideranças em gestão e planejamento"
+    ],
+    "orcamento": "Solicite seu orçamento pelo formulário ou pelo WhatsApp, contando a situação atual da igreja ou do ministério, e na conversa inicial entendemos o que precisa ser feito primeiro."
+  }
+]

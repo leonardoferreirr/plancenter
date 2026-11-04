@@ -1,0 +1,32 @@
+[
+  {
+    "publico": "Empreendedores e empresários",
+    "texto": "Para quem tem uma ideia ou já toca um negócio, a Plancenter ajuda a colocar no papel o que precisa ser feito, com plano de negócios, planejamento e uma marca coerente com a proposta. Nas decisões mais difíceis, você conta com uma consultoria para pensar junto os próximos passos.",
+    "solucoes": ["negocios", "planejamento", "consultoria", "branding"]
+  },
+  {
+    "publico": "Pequenas e médias empresas",
+    "texto": "Organizamos o planejamento, os processos e a rotina administrativa de empresas que cresceram mais rápido do que a própria estrutura. Também preparamos gestores e equipes para conduzir esse crescimento com metas e responsabilidades claras.",
+    "solucoes": ["planejamento", "consultoria", "gestao", "desenvolvimento"]
+  },
+  {
+    "publico": "Profissionais e prestadores de serviços",
+    "texto": "Ajudamos profissionais autônomos e prestadores de serviço a se posicionar, organizar a forma de trabalhar e planejar o crescimento do próprio negócio. A identidade visual e a mentoria costumam ser o ponto de partida para quem quer apresentar melhor o que faz.",
+    "solucoes": ["branding", "desenvolvimento", "planejamento", "negocios"]
+  },
+  {
+    "publico": "Instituições e organizações",
+    "texto": "Apoiamos associações, fundações e organizações na parte administrativa e documental, no planejamento das ações e na elaboração de projetos e planos de trabalho. A ideia é deixar a instituição organizada para funcionar bem no dia a dia e responder com segurança ao que parceiros e órgãos pedem.",
+    "solucoes": ["gestao", "projetos", "planejamento", "desenvolvimento"]
+  },
+  {
+    "publico": "Projetos sociais",
+    "texto": "Ajudamos a levar projetos sociais da intenção para um documento claro, com objetivos, público, metodologia, cronograma e orçamento, organizado para ser apresentado a editais e parceiros. Também apoiamos o planejamento e a organização da equipe que vai executar as ações.",
+    "solucoes": ["projetos", "planejamento", "gestao"]
+  },
+  {
+    "publico": "Igrejas e ministérios",
+    "texto": "Cuidamos da organização administrativa e documental de igrejas e ministérios, como estatuto social, regimento interno e atas, e do planejamento estratégico das ações e projetos. Como a fundadora também atua na área de teologia, o trabalho respeita a linguagem, a realidade e a forma de governo de cada comunidade.",
+    "solucoes": ["setor-religioso", "gestao", "projetos", "desenvolvimento"]
+  }
+]

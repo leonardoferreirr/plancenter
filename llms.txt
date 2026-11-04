@@ -1,30 +1,45 @@
 # Plancenter Consultoria & Projetos
 
-> Onde suas ideias se transformam em projetos bem-sucedidos. A Plancenter oferece soluções em planejamento, projetos, gestão, consultoria, branding, mentoria e capacitação, para empresas, projetos e igrejas e ministérios.
+> Centro de planejamento, consultoria e desenvolvimento de projetos que conecta visão estratégica, organização e execução. Fundadora: Karla Messias.
 
 ## Soluções
-- Planejamento estratégico
-- Business plan
-- Projetos
-- Identidade visual
-- Assessoria administrativa
-- Consultoria empresarial
-- Mentoria estratégica
-- Capacitação e treinamentos
-- Consultoria e assessoria para igrejas e ministérios: estatuto social, regimento interno, atas, plano de trabalho e plano estratégico.
+- Planejamento: Planejamento estratégico e operacional. Organizamos com você onde a empresa ou instituição está hoje, aonde quer chegar e o que precisa ser feito para isso, com objetivos, metas e prioridades definidos por escrito. O planejamento estratégico define a direção, e o operacional traduz essa direção em tarefas, responsáveis e prazos para o dia a dia.
+- Negócios: Plano de negócios e estruturação empresarial. Colocamos a ideia ou o negócio no papel de forma completa, com mercado, público, concorrência, operação, investimento necessário e projeção financeira. Também apoiamos a estruturação da empresa, organizando o modelo de funcionamento, as áreas e os processos principais para começar ou crescer com mais clareza.
+- Projetos: Projetos técnicos, institucionais e planos de trabalho. Elaboramos projetos técnicos e institucionais e planos de trabalho para editais, convênios e parcerias, com justificativa, objetivos, metodologia, cronograma e orçamento organizados conforme o modelo exigido. A decisão de aprovar cabe sempre a quem avalia, e o nosso compromisso é entregar um documento completo, claro e coerente com as regras.
+- Branding: Identidade visual, logomarcas e posicionamento. Desenvolvemos a identidade da marca a partir do que a empresa é e de como ela quer ser percebida, definindo posicionamento, logomarca, cores, tipografia e o jeito de se comunicar. Tudo fica organizado em um manual, para que a marca seja aplicada do mesmo jeito em todos os lugares onde aparece.
+- Gestão: Assessoria administrativa e organização institucional. Apoiamos a organização administrativa e documental de empresas e instituições, para que rotinas, registros e responsabilidades deixem de depender da memória de uma pessoa só. O trabalho inclui entender como as coisas funcionam hoje, organizar documentos e processos e definir uma rotina simples para manter tudo em ordem.
+- Consultoria: Consultoria empresarial e estratégica. Acompanhamos empresários e gestores na análise do negócio e nas decisões importantes, olhando para gestão, processos, equipe, posicionamento e crescimento. O trabalho é próximo, com encontros e orientações construídos a partir da realidade da empresa, sem soluções prontas.
+- Desenvolvimento: Mentoria, capacitação e treinamentos. Desenvolvemos pessoas e equipes em liderança, gestão e planejamento, com mentorias individuais, capacitações e treinamentos montados para cada grupo. O conteúdo parte da realidade de quem participa, com exemplos e exercícios ligados ao trabalho do dia a dia.
+- Setor religioso: Consultoria administrativa e planejamento para igrejas e ministérios. Apoiamos igrejas e ministérios na organização administrativa, documental e estratégica, respeitando a identidade, a realidade e a forma de governo de cada comunidade. O trabalho vai da documentação institucional, como estatuto social e regimento interno, ao planejamento das ações e ao preparo das lideranças.
 
 ## Método Plancenter
-1. Diagnosticar: Entendemos sua realidade, desafios e objetivos.
-2. Planejar: Definimos estratégias personalizadas para o seu propósito.
-3. Estruturar: Organizamos processos, projetos e recursos.
-4. Implementar: Apoiamos a execução com método e orientação.
-5. Acompanhar: Monitoramos resultados e caminhamos com você até a conquista.
+1. Diagnosticar: Compreender a realidade e identificar necessidades.
+2. Planejar: Definir objetivos, estratégias e prioridades.
+3. Estruturar: Organizar ideias e desenvolver soluções.
+4. Implementar: Transformar o planejamento em ações.
+5. Acompanhar: Avaliar avanços e orientar os próximos passos.
 
-## Missão, visão e valores
-- Missão: Transformar ideias em projetos estruturados e sustentáveis.
-- Visão: Ser referência em planejamento, consultoria e desenvolvimento estratégico.
-- Valores: Excelência, ética, estratégia, inovação, compromisso e resultados.
+## Para quem
+- Empreendedores e empresários
+- Pequenas e médias empresas
+- Profissionais e prestadores de serviços
+- Instituições e organizações
+- Projetos sociais
+- Igrejas e ministérios
+
+## Artigos
+- [Cinco erros que comprometem o desenvolvimento de um projeto](https://plancenter.vercel.app/conteudos/cinco-erros-que-comprometem-o-desenvolvimento-de-um-projeto): Os cinco erros que mais aparecem no desenvolvimento de projetos, do objetivo vago ao orçamento sem base, e como evitar cada um deles.
+- [Como estruturar um projeto institucional?](https://plancenter.vercel.app/conteudos/como-estruturar-um-projeto-institucional): As partes de um projeto institucional, da justificativa ao orçamento, e um passo a passo para estruturar o seu com clareza e dentro das exigências.
+- [Como organizar administrativamente uma instituição?](https://plancenter.vercel.app/conteudos/como-organizar-administrativamente-uma-instituicao): Passo a passo para organizar a parte administrativa de uma instituição, com documentos, atas, funções, processos, finanças e rotina.
+- [Como transformar uma ideia em um negócio estruturado?](https://plancenter.vercel.app/conteudos/como-transformar-uma-ideia-em-um-negocio-estruturado): Os passos para tirar uma ideia do papel com método, do problema que ela resolve às contas e ao plano de ação, antes de investir.
+- [O que é um plano de negócios e quando elaborar?](https://plancenter.vercel.app/conteudos/o-que-e-um-plano-de-negocios-e-quando-elaborar): O que é um plano de negócios, o que ele precisa conter e em quais momentos vale elaborar um, seja para abrir, expandir ou apresentar o negócio.
+- [Por que toda empresa precisa de planejamento estratégico?](https://plancenter.vercel.app/conteudos/por-que-toda-empresa-precisa-de-planejamento-estrategico): Para que serve o planejamento estratégico, o que ele precisa ter e como fazer o primeiro plano da sua empresa, mesmo que ela seja pequena.
+- [Sua empresa tem identidade ou apenas uma logomarca?](https://plancenter.vercel.app/conteudos/sua-empresa-tem-identidade-ou-apenas-uma-logomarca): A logomarca é só uma parte da identidade de uma empresa. Veja o que compõe uma identidade de marca e faça um teste rápido com a sua.
+
+## Aviso
+A PLANCENTER oferece planejamento e serviços técnicos conforme o escopo contratado. Não prometemos resultados financeiros, aprovação de projetos ou captação de recursos como garantia.
 
 ## Contato
 WhatsApp: +55 61 99397-3723
+E-mail: plancenterglobal@gmail.com
 Site: https://plancenter.vercel.app/
