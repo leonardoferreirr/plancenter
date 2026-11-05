@@ -28,13 +28,13 @@
 - Igrejas e ministérios
 
 ## Artigos
-- [Cinco erros que comprometem o desenvolvimento de um projeto](https://plancenter.vercel.app/conteudos/cinco-erros-que-comprometem-o-desenvolvimento-de-um-projeto): Os cinco erros que mais aparecem no desenvolvimento de projetos, do objetivo vago ao orçamento sem base, e como evitar cada um deles.
-- [Como estruturar um projeto institucional?](https://plancenter.vercel.app/conteudos/como-estruturar-um-projeto-institucional): As partes de um projeto institucional, da justificativa ao orçamento, e um passo a passo para estruturar o seu com clareza e dentro das exigências.
-- [Como organizar administrativamente uma instituição?](https://plancenter.vercel.app/conteudos/como-organizar-administrativamente-uma-instituicao): Passo a passo para organizar a parte administrativa de uma instituição, com documentos, atas, funções, processos, finanças e rotina.
-- [Como transformar uma ideia em um negócio estruturado?](https://plancenter.vercel.app/conteudos/como-transformar-uma-ideia-em-um-negocio-estruturado): Os passos para tirar uma ideia do papel com método, do problema que ela resolve às contas e ao plano de ação, antes de investir.
-- [O que é um plano de negócios e quando elaborar?](https://plancenter.vercel.app/conteudos/o-que-e-um-plano-de-negocios-e-quando-elaborar): O que é um plano de negócios, o que ele precisa conter e em quais momentos vale elaborar um, seja para abrir, expandir ou apresentar o negócio.
-- [Por que toda empresa precisa de planejamento estratégico?](https://plancenter.vercel.app/conteudos/por-que-toda-empresa-precisa-de-planejamento-estrategico): Para que serve o planejamento estratégico, o que ele precisa ter e como fazer o primeiro plano da sua empresa, mesmo que ela seja pequena.
-- [Sua empresa tem identidade ou apenas uma logomarca?](https://plancenter.vercel.app/conteudos/sua-empresa-tem-identidade-ou-apenas-uma-logomarca): A logomarca é só uma parte da identidade de uma empresa. Veja o que compõe uma identidade de marca e faça um teste rápido com a sua.
+- [Cinco erros que comprometem o desenvolvimento de um projeto](https://www.plancenter.com.br/conteudos/cinco-erros-que-comprometem-o-desenvolvimento-de-um-projeto): Os cinco erros que mais aparecem no desenvolvimento de projetos, do objetivo vago ao orçamento sem base, e como evitar cada um deles.
+- [Como estruturar um projeto institucional?](https://www.plancenter.com.br/conteudos/como-estruturar-um-projeto-institucional): As partes de um projeto institucional, da justificativa ao orçamento, e um passo a passo para estruturar o seu com clareza e dentro das exigências.
+- [Como organizar administrativamente uma instituição?](https://www.plancenter.com.br/conteudos/como-organizar-administrativamente-uma-instituicao): Passo a passo para organizar a parte administrativa de uma instituição, com documentos, atas, funções, processos, finanças e rotina.
+- [Como transformar uma ideia em um negócio estruturado?](https://www.plancenter.com.br/conteudos/como-transformar-uma-ideia-em-um-negocio-estruturado): Os passos para tirar uma ideia do papel com método, do problema que ela resolve às contas e ao plano de ação, antes de investir.
+- [O que é um plano de negócios e quando elaborar?](https://www.plancenter.com.br/conteudos/o-que-e-um-plano-de-negocios-e-quando-elaborar): O que é um plano de negócios, o que ele precisa conter e em quais momentos vale elaborar um, seja para abrir, expandir ou apresentar o negócio.
+- [Por que toda empresa precisa de planejamento estratégico?](https://www.plancenter.com.br/conteudos/por-que-toda-empresa-precisa-de-planejamento-estrategico): Para que serve o planejamento estratégico, o que ele precisa ter e como fazer o primeiro plano da sua empresa, mesmo que ela seja pequena.
+- [Sua empresa tem identidade ou apenas uma logomarca?](https://www.plancenter.com.br/conteudos/sua-empresa-tem-identidade-ou-apenas-uma-logomarca): A logomarca é só uma parte da identidade de uma empresa. Veja o que compõe uma identidade de marca e faça um teste rápido com a sua.
 
 ## Aviso
 A PLANCENTER oferece planejamento e serviços técnicos conforme o escopo contratado. Não prometemos resultados financeiros, aprovação de projetos ou captação de recursos como garantia.
@@ -42,4 +42,4 @@ A PLANCENTER oferece planejamento e serviços técnicos conforme o escopo contra
 ## Contato
 WhatsApp: +55 61 99397-3723
 E-mail: plancenterglobal@gmail.com
-Site: https://plancenter.vercel.app/
+Site: https://www.plancenter.com.br/

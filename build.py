@@ -14,7 +14,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 RAIZ = Path(__file__).parent
-DOMINIO = "https://plancenter.vercel.app"
+DOMINIO = "https://www.plancenter.com.br"
 INDEXAR = False                 # True depois da aprovação
 WHATSAPP = "5561993973723"      # +55 61 99397-3723, o dos slides
 TEL_VER = "+55 61 99397-3723"
@@ -210,7 +210,7 @@ def org_schema():
         "description": "Centro de planejamento, consultoria e desenvolvimento de projetos para empreendedores, empresas, instituições, projetos sociais e igrejas e ministérios.",
         "url": DOMINIO + "/", "logo": DOMINIO + "/assets/img/plancenter-completa.webp", "image": DOMINIO + "/assets/img/og-image.jpg",
         "telephone": "+55-61-99397-3723", "email": EMAIL, "areaServed": "BR",
-        "founder": {"@type": "Person", "name": "Karla Messias", "jobTitle": "Fundadora", "url": "https://karlamessias.vercel.app/"},
+        "founder": {"@type": "Person", "name": "Karla Messias", "jobTitle": "Fundadora", "url": "https://www.karlamessias.com/"},
         "hasOfferCatalog": {"@type": "OfferCatalog", "name": "Soluções Plancenter", "itemListElement": [
             {"@type": "Offer", "itemOffered": {"@type": "Service", "name": s["servico"], "description": s["descricao"]}} for s in sol]},
     })
@@ -312,7 +312,7 @@ def fundadora_sec(completa=False):
     return f'''<section class="sec" id="fundadora"><div class="wrap par par--fund">
   <div class="foto foto--retrato rv">{foto("fundadora", (800, 1400), "Karla Messias, fundadora da Plancenter, apresentando um plano de negócios", "(max-width:760px) 92vw, 40vw")}</div>
   <div class="par__txt rv" data-d="1"><h2>Karla <span class="ouro">Messias</span></h2>{txt}
-    <div class="ctas" style="margin-top:2rem"><a class="btn btn--linha" href="https://karlamessias.vercel.app/" target="_blank" rel="noopener">Conheça Karla Messias {SETA}</a></div></div>
+    <div class="ctas" style="margin-top:2rem"><a class="btn btn--linha" href="https://www.karlamessias.com/" target="_blank" rel="noopener">Conheça Karla Messias {SETA}</a></div></div>
 </div></section>'''
 
 
