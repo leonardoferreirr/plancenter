@@ -455,7 +455,7 @@ def artigo_pag(a, lista):
     extra = ld({"@context": "https://schema.org", "@type": "Article", "headline": a["titulo"], "description": a.get("resumo", ""),
                 "inLanguage": "pt-BR", "author": {"@type": "Organization", "name": "Plancenter"},
                 "publisher": {"@type": "Organization", "name": "Plancenter", "logo": {"@type": "ImageObject", "url": DOMINIO + "/assets/img/plancenter-completa.webp"}},
-                "mainEntityOfPage": f"{DOMINIO}/conteudos/{a['slug']}", "datePublished": date.today().isoformat()})
+                "mainEntityOfPage": f"{DOMINIO}/conteudos/{a['slug']}", "datePublished": "2026-11-03"})
     if faq:
         extra += ld({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": r}} for q, r in faq]})

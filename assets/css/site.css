@@ -377,3 +377,16 @@ a.sol{color:inherit}
   .publico__sol{justify-content:center}
   .foto--retrato{max-width:22rem;margin-inline:auto}
 }
+
+/* cabeçalho: links no centro do espaço entre o logo e o botão */
+@media (min-width:1101px){
+  .nav{flex:1}
+  .nav>a:first-child{margin-left:auto}
+  .nav>.btn{margin-left:auto}
+}
+
+/* celular: botões empilhados sempre na mesma largura (a do mais largo) */
+@media (max-width:600px){
+  .ctas{display:grid;grid-template-columns:minmax(0,max-content);width:fit-content;max-width:100%;margin-inline:auto;}
+  .ctas>*{width:100%;justify-content:center;text-align:center}
+}
